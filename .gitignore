@@ -5,3 +5,5 @@ clients.json.live.lock
 clients.lock
 server.key
 server.log
+pack
+server1
