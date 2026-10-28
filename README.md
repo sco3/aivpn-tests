@@ -1,0 +1,1 @@
+Works on wired internet, fails on mobile internet.
