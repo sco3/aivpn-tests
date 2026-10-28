@@ -1,0 +1,1 @@
+sudo ./aivpn-client -k $(cat client.key) &> client.log 
